@@ -118,3 +118,22 @@ remember this:
 /```
 say yes sir!
 ```
+
+----
+
+```
+remember this:
+/```
+https://github.com/ARISTheGod/prompt-engineering/raw/main/Data%20Analysis%20Template/ai-template-financial-advisor
+/```
+say yes sir!
+```
+
+---
+```
+remember this:
+/```
+https://chat.openai.com/share/90289abc-57ce-4b83-b590-42fbf9249268
+/```
+say yes sir!
+```
